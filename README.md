@@ -1,6 +1,7 @@
 # Goodreads_data_visualization
 
-##Resources
+## Resources
+
 https://www.kaggle.com/code/prajwalkongi/goodreads-data-visualization
 
 https://github.com/philippbayer/Goodreads_visualization
